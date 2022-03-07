@@ -2,11 +2,16 @@
 
 Config Setup
 
-Oh-my-zsh:
+## Oh-my-zsh:
+
 https://ohmyz.sh/
 
-Powerline:
+## Powerline:
+
 https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k
 
-Add color to terminal output:
+## Add color to terminal output:
+
 https://github.com/Peltoche/lsd#optional
+
+https://github.com/athityakumar/colorls
